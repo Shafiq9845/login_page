@@ -1,0 +1,30 @@
+
+.container{
+background-color: whitesmoke;
+margin-left: 62.5%;
+max-width: 300px;
+max-height: 500px;
+padding: 18px;
+margin-top: 13%;
+border-radius: 5%;
+}
+.container3{
+position: absolute;
+top: 100px;
+left: 45%;
+}
+.container #password{
+margin-bottom: 0vh;
+}
+.container #password2{
+margin-bottom: 0vh;
+}
+ul li{
+
+display: inline-block;
+position: relative;
+left: 1350px;
+top: 15px;
+/* margin-right: 8px; */
+inline-size: 9%;
+}
